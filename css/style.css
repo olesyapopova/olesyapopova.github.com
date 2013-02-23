@@ -1,0 +1,38 @@
+﻿.inf{
+float:left;
+width:50%;
+text-align:justify;
+margin:10px 10px 30px 50px;
+border-radius:20px;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+}
+
+.container{
+background-image:url(../img/fon12.jpg);
+}
+
+.foto1{
+margin-left:60%;
+}
+
+.kontakt{
+margin-left:60%;
+text-indent:5%;
+background-color: rgba(238, 221, 130, 0.7);
+margin:20px 10px 10px 60%;
+border-radius:20px;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+}
+
+.brand{
+text-indent:700px;
+}
+
+.navbar-inner{
+background: -webkit-radial-gradient(920px 20px, farthest-side, #fff, #FFC125);
+background: -ms-radial-gradient(920px 20px, farthest-side, #fff, #FFC125);
+background: -moz-radial-gradient(920px 20px, farthest-side, #fff, #FFC125);
+background: -o-radial-gradient(920px 20px, farthest-side, #fff, #FFC125);
+}
